@@ -1,0 +1,62 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Jeevan",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Jeevan",
+      "password": "12346"
+    },
+    {
+      "name": "Jeevan Kumar",
+      "email": "727722euit072@skcet.ac.in",
+      "password": "123456789",
+      "mobileNumber": "9344491338",
+      "passwordConfirm": "123456789",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Karnan",
+      "password": "kkk",
+      "email": "22it075@skcet.ac.in",
+      "mobileNumber": "999999999",
+      "passwordConfirm": "kkk"
+    },
+    {
+      "id": 5,
+      "name": "Gousikram",
+      "password": "12345",
+      "email": "727722euit072@skcet.ac.in",
+      "mobileNumber": "8610815862",
+      "passwordConfirm": "12345"
+    },
+    {
+      "id": 6,
+      "name": "Giri",
+      "password": "12345",
+      "email": "727722euit055@skcet.ac.in",
+      "mobileNumber": "9384848489",
+      "passwordConfirm": "12345"
+    },
+    {
+      "id": 7,
+      "name": "",
+      "password": "",
+      "email": "",
+      "mobileNumber": "",
+      "passwordConfirm": ""
+    },
+    {
+      "id": 8,
+      "name": "Mudhasheer",
+      "password": "jeevan",
+      "email": "abc@gmail.com",
+      "mobileNumber": "9344491338",
+      "passwordConfirm": "jeevan"
+    }
+  ]
+}
